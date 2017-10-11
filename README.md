@@ -1,1 +1,2 @@
-# Loohaze.github.io
+# hugo page conntent
+# loohaze.com 
